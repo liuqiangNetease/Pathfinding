@@ -1,0 +1,41 @@
+﻿生成启动时间为 2015/5/14 11:27:51。
+     1>项目“F:\Buckland_SourceCode\VS8 projects\Buckland_Chapter6_Scripting_Source\lua_using_cpp\lua_using_cpp.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/lua_using_cpp.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug/lua_using_cpp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\lua_using_cpp.lib" /MACHINE:X86 /SAFESEH .\Debug/lapi.obj
+         .\Debug/lauxlib.obj
+         .\Debug/lbaselib.obj
+         .\Debug/lcode.obj
+         .\Debug/ldblib.obj
+         .\Debug/ldebug.obj
+         .\Debug/ldo.obj
+         .\Debug/ldump.obj
+         .\Debug/lfunc.obj
+         .\Debug/lgc.obj
+         .\Debug/linit.obj
+         .\Debug/liolib.obj
+         .\Debug/llex.obj
+         .\Debug/lmathlib.obj
+         .\Debug/lmem.obj
+         .\Debug/loadlib.obj
+         .\Debug/lobject.obj
+         .\Debug/lopcodes.obj
+         .\Debug/loslib.obj
+         .\Debug/lparser.obj
+         .\Debug/lstate.obj
+         .\Debug/lstring.obj
+         .\Debug/lstrlib.obj
+         .\Debug/ltable.obj
+         .\Debug/ltablib.obj
+         .\Debug/ltm.obj
+         .\Debug/lundump.obj
+         .\Debug/lvm.obj
+         .\Debug/lzio.obj
+         .\Debug/print.obj
+         .\Debug/main.obj
+     1>lapi.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         lua_using_cpp.vcxproj -> F:\Buckland_SourceCode\VS8 projects\Buckland_Chapter6_Scripting_Source\lua_using_cpp\.\Debug\lua_using_cpp.exe
+     1>已完成生成项目“F:\Buckland_SourceCode\VS8 projects\Buckland_Chapter6_Scripting_Source\lua_using_cpp\lua_using_cpp.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.44
